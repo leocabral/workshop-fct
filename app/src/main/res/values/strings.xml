@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movies FCT</string>
+    <string name="search_movie">Search</string>
+    <string name="movie_name">Movie name</string>
+</resources>
